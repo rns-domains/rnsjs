@@ -5,7 +5,7 @@
 ### Setup
 
 ```
-import { getEnsAddress, RNS } from '@rnsdomains/rnsjs'
+import { getEnsAddress, RNS } from '@rns-name-service/rnsjs'
 import { ethers } from 'ethers'
 
 
