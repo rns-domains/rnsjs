@@ -1,11 +1,11 @@
 {
   "name": "@rnsdomains/ensjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "rns.js v2",
-  "main": "dist/index.js",
-  "repository": "rnsdomains/rnsjs",
+  "main": "src/index.js",
+  "repository": "rns-domains/rnsjs",
   "files": [
-    "dist"
+    "src"
   ],
   "scripts": {
     "test": "jest --verbose",
